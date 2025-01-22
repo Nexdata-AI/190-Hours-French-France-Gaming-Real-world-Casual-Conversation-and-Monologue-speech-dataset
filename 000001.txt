@@ -1,0 +1,255 @@
+0.022727236963014017	1.55681573196646	O1	Ah il a entendu quoi.[N]
+5.113628316678153	10.55680156932001	O2	Eh je pense que je suis passé trop près du coup, il était pas loin de la porte et du si le euh.[N]
+12.204526249138524	14.113614154031703	O1	Ah mais tout est fermé euh dans cette mission.
+18.06815338559614	20.12496833074891	N	[OIVS]
+22.26132860527223	24.22723460257294	O1	Ça a l'air ok, l'entrepôt.
+25.590868820353776	27.409047777394896	O2	Eum d'habitude y en a plein ici. [N]
+27.431775014357914	30.715860755513443	O1	Ah non là y en a pas, bon écoute, fini, non c'est R S.[N]
+30.76131522943947	31.98858602544222	O2	Chang l'épicard.[N]
+32.02267688088675	32.534039712554566	O1	Ouais.
+37.409032041121066	40.74993587468413	O1	Euh là par contre je peux pas regarder sous la porte, donc écoute ça va être trop loin oh oh.
+40.93175377038824	45.579473729324604	N	[OIVS]
+45.64765544021365	46.73856281443832	O1	Oh ils sont tous barrés hein.[N]
+47.53401610814382	52.829462320526076	N	[OIVS]
+52.863553175970594	54.26127824919596	O1	[OFFENSIVE/]Putain[/OFFENSIVE] y a des civs partout quoi. [N]
+54.397641670974046	60.86354058695153	N	[OIVS]
+60.886267823914544	62.10217500143579	O2	Tu as la posé ta.[N]
+62.454447174362514	64.82944343699748	O1	T'as posé ta [OFFENSIVE/]merde, putain ah.[/OFFENSIVE][N]
+66.06807785148173	66.90898561911327	O2	Mon [OFFENSIVE/]gros cul[/OFFENSIVE] euh.[N]
+67.35216673989203	70.38625287445441	O1	Avec ton, ton bouclier on voit que dalle sur la caméra.[N]
+71.03397912790031	77.3976054775442	O1	Je vois le gros truc police, je vois le gros truc police sur la caméra quoi, je vois rien d'autre.[N]
+77.7044231765449	78.85214864317712	O2	Nombreux au moins.[N]
+80.48850970451413	81.28396299821962	O2	On sait que la police.[N]
+81.30669023518263	86.12486447134162	O1	Arrête toi [OFFENSIVE/]connard, putain,[/OFFENSIVE] lesquelles bandes de [OFFENSIVE/]cons.[/OFFENSIVE] [N]
+86.35213684097175	90.54531206064783	N	[OIVS]
+90.55667567912934	92.11349141109581	O1	Il m'a attaqué au couteau ce [OFFENSIVE/]connard.[/OFFENSIVE][N]
+92.79530851998622	93.8975795126924	O2	Ça serait plus.[N]
+94.22712444865611	94.78394175424994	O1	Ok.[N]
+95.74984932517803	100.3975692841144	O2	Il bouge plus, il est venu, oh[OFFENSIVE/] putain[/OFFENSIVE] et l'autre l'autre qui se barre mais [OFFENSIVE/]putain[/OFFENSIVE] mais c'est quoi.[N]
+100.42029652107742	103.23847390449116	O1	On a tué tous les suspects, y en avait que deux hein, c'est bon.[N]
+103.88620015793705	104.28392680478981	O2	C'est bon? [N]
+104.54529002986446	107.70437596772342	O1	Euh euh on a tué tous les suspects, il reste plus que les civils à arrêter quoi.[N]
+110.1020994673214	111.51118815902826	O2	C'est sûr hein, la dernière fois je me suis.[N]
+111.52255177750976	116.62481647570641	O1	Non non chui sûr, j'ai regardé l'objectif là, c'est bon haha ouais c'est bon, c'est bon, il reste plus que les civils.[N]
+116.63618009418792	119.76117517660235	N	[OIVS]
+119.78390241356536	120.93162788019755	N	[IVS]
+122.29526209797842	122.74980683723868	O1	Allez.[N]
+123.55662374942565	126.52252817309902	O2	Oh, regarde, un rassemblement de trois civils. [N]
+126.74980054272915	129.65888687399493	O1	Ouais ouais je l'avoue sur ta cam là, le [OFFENSIVE/] putain de merde.[/OFFENSIVE][N]
+129.67025049247644	134.74978795371007	O2	Alors les autres, allez, alors toi, la tête dans son [OFFENSIVE/]cul.[/OFFENSIVE][N]
+137.1816023087526	137.77251046979094	O1	Oh t'es là. [N]
+137.78387408827246	138.24978244601425	O2	Ouais.[N]
+138.2952369199403	138.8179633700896	O1	Ok.[N]
+138.89750869946016	142.44295766569033	N	[OIVS]
+142.46568490265335	144.0111370161383	O2	[OFFENSIVE/]Putain[/OFFENSIVE] mais il est encore debout lui.[N]
+144.0225006346198	147.28385913881232	N	[OIVS]
+147.51113150844245	148.09067605099932	O2	Eh [OFFENSIVE/]putain.[/OFFENSIVE][N]
+150.840671723524	151.74976120204457	O2	Allez déplacez [OVERLAP/]parce que c'est.[/OVERLAP][N]
+151.7838520574891	153.86339423960487	O1	[OFFENSIVE/]Connard,[/OFFENSIVE] voilà.[N]
+158.98838617476454	159.45429453250634	O2	T'es là.[N]
+161.36338243739948	163.2951975792557	O1	Pas fini, il en reste encore un planqué.[N]
+164.23837791322077	164.7724679818516	O2	Encore? [N]
+165.95428430392832	170.56791340742018	O1	Ils sont mis tous les trous au même endroit ces abrutis quoi, ces nains, on en voit dalle que je vais met.[N]
+170.5906406443832	171.2156396608661	O2	Euh.[N]
+172.738364537388	174.44290730961407	O2	On en a arrêté pas mal euh y a.[N]
+176.89744890161958	177.37472087784286	O1	Que dalle.[N]
+182.3406221542614	182.64743985326214	O1	Ouais.[N]
+182.65880347174365	187.76106816994027	N	[OIVS]
+187.7951590253848	188.44288527883072	O2	Euh.[N]
+188.85197554416496	189.96561015535264	O1	je sais pas, c'est toi qui as tiré.[N]
+191.26106266224446	194.6246937327705	O2	Ouais, j'ai tiré en l'air parce qu'il voulait pas se.[N]
+194.64742096973353	199.6701403385596	N	[OIVS]
+201.13604712267403	204.24967858660693	O1	Oh là là, beaucoup de civils, c'est un délire cette mission hein.[N]
+205.36331319779464	207.48830985383645	O2	Ouais euh grosse prise de tête.[N]
+209.89739697191592	211.3519401375488	O1	Pas fini, il en reste encore.
+211.38603099299334	213.85193620348036	N	[OIVS]
+213.87466344044338	214.60193502325984	O1	Y en a un ou deux là.[N]
+214.61329864174135	217.5678394469332	N	[OIVS]
+217.69283925022975	219.29510945612222	O1	C'est bon, y'a le cuistot là.
+220.07919913134623	226.7382795615093	N	[OIVS]
+226.78373403543532	228.43145871525385	O1	Allez hop, le vieux.[N]
+228.46554957069839	234.8746303942683	N	[OIVS]
+234.90872124971284	235.84053796519643	N	[IVS]
+235.86326520215945	236.749627443717	O1	C'est bon on a fini.[N]
+236.79508191764302	239.7268954858718	N	[OIVS]
+239.82916805220543	242.07916451154378	O2	Ah bah alors là peut être A S.[N]
+242.34052773661844	249.2723350103377	O1	Ah bah j'ai juste tué un suspect parce que le mec il m'a, il m'a froncé dessus en fait quoi fin euh, y a essayé de me mettre un coup de couteau cet [OFFENSIVE/]enfoiré. [/OFFENSIVE][N]
+250.57915113571107	252.63596608086382	O1	On a pas été blessé oh à plus.[N]
+252.64732969934528	253.20414700493913	O2	À plus.[N]
+253.48823746697676	256.46550550913156	O1	Je crois que c'est le max, je crois que c'est le max ouais. [N]
+256.4768691276131	258.4200478879509	O2	Eum je sais pas parce qu'il y a encore une faible.
+258.43141150643237	260.27231770043653	O1	Ah vas-y, un gamin et.[N]
+260.6473171103262	262.4995869228119	N	[IVS]
+263.1586767947393	268.60185004738116	O1	Petit imprimé écran et c'est en vidéo mec, tu pourras pas dire qu'on a triché, voilà haha.[N]
+270.14730216086605	278.124562334884	O1	[OFFENSIVE/]Putain[/OFFENSIVE] la vidéo je m'attendais à ce qu'on fasse un truc débile quoi en fait, non on a on a un rond à plus, voilà nickel c'est hahaha et à deux.[N]
+278.1813804272915	278.8063794437744	O1	En plus.[N]
+278.8291066807374	279.5677418820354	O2	Meilleurs des meilleurs.[N]
+282.82910038622794	285.1472785564554	O2	Euh Césarka ah.[N]
+288.78363647053754	289.89727108172525	O2	Alerte à la bombe.
+291.31772339191366	299.0790748147829	O1	Tu veux finir sur une alerte à la bombe, oh [OFFENSIVE/]putain[/OFFENSIVE] en plus, en plus c'est la casse là, ouais c'est le bordel, on on va peut-être finir sur une humiliation hein.[N]
+299.6472557388583	302.3290697004939	O1	On va peut-être finir sur une humiliation là ha ha ha.
+302.488160359235	303.3745226007926	O2	Ah dis pas ça.
+303.3972498377556	310.3858752038824	O1	Achetez pas cher, achetez deux fois, ah on est que deux hein, équipe du S W A T, le S W A T a deux hein, désolé, y avait des coupes budgétaires dans le budget les gars hein.[N]
+310.60178395503107	316.19268424793245	O1	Du coup on vous envoie au casse-pipe euh, y a vingt, y a vingt, suspects potentiellement euh vous êtes que deux.[N]
+318.2040447191592	323.0904006662072	O1	Et c'est des bombes en plus, on vous l'a pas dit y'a des bombes hahaha [OFFENSIVE/]putain.[/OFFENSIVE]
+325.5903967321388	326.5903951585114	O2	Euh.[N]
+327.10175799017924	328.4767558264416	O1	Oh pas maintenant, c'est après ça.
+331.52220557948544	333.4085662474156	O2	Ah ça commence maintenant, voilà.
+334.9994728348266	337.272196531128	O1	Ah attention là je le sens carrément pas quoi.[N]
+340.544918653802	342.82900596858485	O1	Oh la la la la, l'endroit de [OFFENSIVE/]merde[/OFFENSIVE] quoi.
+345.3176384160349	347.09036289915	O2	On va être mort cinq fois si y'en a qui se.
+347.1244537545945	352.1699003603836	O1	Ah ouais ouais si y en si a qui se planquent derrière les bagnoles on est mort ouais c'est, on rentre par la gauche, viens.[N]
+353.62444352601665	354.4085332012406	O2	Euh la gauche.[N]
+354.442624056685	355.4085316276131	O1	Je mets ta cam maintenant vas-y.[N]
+355.41989524609465	359.9653426386975	O2	Oui, ah par là, ok, j'arrive.[N]
+360.0107971126235	365.0676073368941	O1	Oh y a une porte là, je pense que c'est bien de passer par là, j'vais épiquer, attends j'vais regarder ce qu'y a.[N]
+365.7039699718585	368.66987439553185	O2	Sinon y a, y a la cour derrière là, y a encore une porte.[N]
+369.5335094001264	372.908504089134	O1	On va arriver dans la concession là, c'est ça a l'air pas mal y a, j'vois pas d'ennemis.
+374.4425925841374	374.7494102831381	O2	Ah.
+375.39713653658396	377.10167930881005	O1	Attends [OVERLAP/]c'est fermé,[/OVERLAP] je crochette.
+378.62440418533197	378.91985826585113	O2	Attends.
+378.94258550281415	379.7153115595565	O1	Ah c'est bon.
+383.52212375086145	385.35166632638413	O1	Et je t'en prie rentre.
+385.6016659329773	386.9312092953136	O2	Allez, j'y vais.[N]
+392.06756484895476	393.7380167657363	O2	Bon et on tire pas sur la Ferrari.
+394.1471070310705	399.2493717292672	O1	Ah non non non, du tout, c'est bizarre qu'y'ait pas d'ennemis, [OFFENSIVE/]putain[/OFFENSIVE] c'est chaud, c'est calme.[N]
+401.9425493093844	402.54482108890426	O2	Y a du bruit.
+402.95391135423847	403.4652741859063	O1	Gauche.
+403.72663741098097	408.19253947421316	O2	Ouais la porte ici, je vois pas si y'a de piège.[N]
+408.20390309269465	408.9198110570296	O1	C'est la télé.
+411.90844271766605	412.4993508787044	O1	Vas-y entre.[N]
+413.3629858832989	414.84025628589484	N	[OIVS]
+416.5675262950839	417.2607070224558	O2	Non y a rien.[N]
+417.5220702475305	422.0220631662072	O1	[OFFENSIVE/]Putain,[/OFFENSIVE] on peut rentrer par là aussi, attends j'vais regarder en dessous quand même.[N]
+424.169787059212	432.04477466689644	O1	Ennemi, ennemi et y a des barils d'explosifs à côté de l'aquarium, [OFFENSIVE/]putain[/OFFENSIVE] tu tires dans le baril on est mort quoi ha ha ha.[N]
+432.52204664311967	436.1243137017574	O2	Baril d'explosifs à côté d'un aquarium, il aime pas les poissons? [N]
+437.96521989576155	443.3288478190329	O1	Attends euh attends c'est fermé, par contre y a un ennemi qui vise la porte, alors attention euh.[N]
+444.1129374942568	444.8515726955548	O2	Euh.
+445.39702638266715	446.18111605789113	O1	J'vais défoncer.[N]
+452.86292372501725	454.2038307058351	O2	[OFFENSIVE/]Enfoiré[/OFFENSIVE] il est à gauche.
+455.5788285420974	457.48791644699065	O1	Ok j'vais contourner je passe ailleurs.[N]
+458.4538240179187	460.70382047725707	O2	Vas-y vas-y euh j'vais la tirer.[N]
+463.3629072019298	464.54472352400643	O2	Fais gaffe il est à ta gauche.
+464.8174503675626	465.15835892200784	O1	Ouais.[N]
+468.41971742620035	470.45380513439005	O2	Ah il s'est barré mais c'est pas possible.[N]
+470.4651687528716	474.9537980530669	O1	J'vais lui fermer la porte euh, y a des bidons d'explosifs à l'aquarium là c'est.[N]
+475.89697838703194	480.23788064696765	O2	Ouais ouais bah mais c'est ça qu'il faut désamorcer, mais on va d'abord sécuriser la zone.[N]
+481.8742417083047	484.24923797093965	O1	Ouais il est rentré là, il est rentré là ça c'est sûr.[N]
+485.09014573857115	485.4196906745349	O2	Ouais.[N]
+488.39695871668965	488.97650325924656	O1	Ah c'est.[N]
+489.38559352458077	493.43104170399727	N	[OIVS]
+494.22649499770273	497.908307385711	O2	Oh [OFFENSIVE/]l'enfoiré,[/OFFENSIVE] j'pensais qu'il se serait rendu mais non.[N]
+498.4423974543418	500.72648476912474	O1	Ah non non non, c'est, c'est des petits [OFFENSIVE/]bâtards[/OFFENSIVE] hein.
+501.6810287215714	502.72648162186994	O2	Ah rien à péter.[N]
+503.46511682316793	505.9423856521364	N	[OIVS]
+506.04465821847003	511.9423762103722	O2	Je mourrai pour mon objectif, créer des licornes artificielles pour envahir le monde. [N]
+512.4878298974845	517.8969122946819	O1	Ouais y a des bidons inflammables partout, tu tires une balle là-dedans t'es mort quoi, c'est.[N]
+519.2378192754998	521.1582707988744	O2	Attends y a pas de charge euh.
+521.3400886945784	525.5105366772916	O1	Non non non, faut juste faire gaffe où tu tires en fait je crois, ça doit être ça la complexité.
+527.5446243854813	529.0559856435218	O2	Oh je sais que ça ça va.
+529.1128037359293	529.442348671893	O1	Ouais.
+531.7037087497129	537.2832454241328	O1	Non, j'vais, je t'ai, y a personne, j'ai rien vu derrière donc euh.[N]
+540.1923317553986	540.8173307718815	O2	Oh ok.
+542.7491459137377	544.5218703968527	O1	Bon et là.[N]
+547.351411398748	548.7718637089364	O1	Ça nous ramène dehors.
+551.5559502369056	554.9991266368022	O1	Bon, j'vois rien, j'entends des bruits de pas par contre, fais gaffe.[N]
+558.1582125746612	561.5559345006318	O1	A gauche hein y avait des pas, j'pense que c'est de l'autre côté du grillage.
+565.1127470853435	566.89683518694	O2	Ah c'est la fameuse cour.[N]
+574.4195506216977	577.964999587928	O1	Suspect, voilà, homme à terre, j'lui ai mis une tête.[N]
+580.1922688103032	583.0445370491617	O1	Au bout, ah j'ai vu qu'il y avait un flingue, j'ai pas cherché à.[N]
+583.0899915230877	589.9877079413624	O1	Comprendre, c'est bon on [OFFENSIVE/]nique[/OFFENSIVE] hein, j'imagines les flics qui gueulent sans sommation, qui butent tout le monde sans sommation.[N]
+591.2831604482541	593.453611578222	O2	Oh y a eu assez de sommation là.[N]
+594.3399738197795	594.9422455992994	O1	[OFFENSIVE/]Putain.[/OFFENSIVE][N]
+598.2036041034919	598.9763301602344	O1	Ah une bombe là.[N]
+600.4990550367562	602.8513240624283	O2	Ouais fais gaffe.[N]
+606.0785917111763	606.7831360570297	O1	Les amorces.[N]
+608.1240430378474	613.7263069492304	O2	Vas-y, vas-y, je refongue la pièce, c'est bon.[N]
+623.5899277911785	624.2262904261429	O1	Y a deux, une.[N]
+627.3512855085573	630.7376438160464	O2	Fil bleu sur le fil bleu.[N]
+632.1580961262347	633.953547846313	O1	Fil rouge, sur le bouton le rouge.[N]
+641.3171726223294	642.3967163780726	O2	Y en reste encore des suspects?
+642.8853519727772	643.5103509892601	O1	Bah oui, hein.
+647.9762530524927	649.4762506920516	O1	Hum j'suis entré dans une pièce en mode toto là.[N]
+649.4876143105331	652.067155705835	O2	Pas de civils là, y a, y a que des.[N]
+652.1126101797611	659.9307796950378	O1	Oh j'vois un plan là, c'est quoi ce délire, un plan terroriste ou quoi, c'est, c'est quoi ce délire hein, c'est quoi les trucs, localiser la liste du personnel, ah.[N]
+660.4648697636688	663.2603199101195	O1	La liste du personnel, c'est pas ça, [OFFENSIVE/]merde[/OFFENSIVE] pff. [N]
+666.5784965067196	669.010310861762	O2	Ouais, chui pas, pas confiant.[N]
+669.8966731033197	674.453484114404	O1	J'suis dans une pièce, y'a plein de documents quoi, euh localiser la liste du personnel.
+674.4648477328855	678.8398408482656	O1	Euh civils, les bombes, ok, les su- les suspects à tuer, ok.[N]
+682.055744878532	684.7148316032046	O1	Juste si c'est pas les documents qu'il faut que je ramasse ici mais.
+685.7489208850218	688.2489169509533	O2	Ouais ça craint, j'pense qu'il y a du monde de mon côté.
+688.5898255053986	689.135279192511	O1	J'arrive.
+689.180733666437	690.3852772254767	N	[OIVS]
+693.7489082960028	695.2602695540432	N	[OIVS]
+695.7261779117852	699.1466270747187	O1	Ah t'es dans le, t'es dans ce bâtiment là toi, ouais t'es un dingue oh.[N]
+699.1693543116817	704.2148009174708	N	[OIVS]
+704.7829818415461	708.7261574546291	O2	Euh y'en a un qui est au sol.[N]
+714.0102400485298	716.5329633514243	O1	Ouais, ils essaient d'armer des bombes les mecs hein, [OFFENSIVE/]putain[/OFFENSIVE] chaud.[N]
+718.0897790833908	718.7375053368368	O2	Y en avait qu'un. [N]
+718.8965959955779	719.7034129077648	O2	Oh merde.[N]
+721.2943194951757	721.6920461420285	O1	Ça va?
+721.70340976051	727.2374919610039	O2	[OFFENSIVE/]Putain,[/OFFENSIVE] espèce [OFFENSIVE/]d'enfoiré,[/OFFENSIVE] non, le civil que j'ai, soi-disant euh. [N]
+727.9079454514128	728.919307496267	O1	Ah, il a sorti un flingue.[N]
+729.1238526289341	731.0670313892717	O2	Et bah il s'est relevé [OFFENSIVE/]l'enfoiré.[/OFFENSIVE][N]
+731.1011222447163	738.1238384662875	O1	Ah quel endurant ouais, c'est vrai qu'ils le font souvent ces [OFFENSIVE/]connards[/OFFENSIVE] ça, j'entends la bombe, j'entends la bombe.[N]
+738.692019390363	740.2488351223294	O1	Bon ouais.[N]
+743.0556488872617	743.9988292212267	O2	Quel [OFFENSIVE/]enculé.[/OFFENSIVE][N]
+745.4760996238226	750.4192736632782	O2	J'vais juste vérifier en haut s'il y en avait pas d'autres pour que j'arrête et ben moi.[N]
+750.4647281372042	751.578362748392	O1	J'ai j'ai trouvé la bombe.[N]
+753.9192681555824	754.6465397383988	O2	Suspect mort.[N]
+755.4647202690674	757.6351713990351	O1	C'est bon, il m'avait mis une balle dans la jambe mais ça va je l'ai eu.[N]
+759.2715324603722	759.9192587138181	O1	Ah [OFFENSIVE/]putain.[/OFFENSIVE]
+763.3283442582702	769.1124260653572	O1	Deux suspects morts, [OFFENSIVE/]putain,[/OFFENSIVE] j'ai failli crever, j'ai failli crever là ouff ouff [OFFENSIVE/]putain.[/OFFENSIVE][N]
+771.1351501550655	773.6919643134044	O1	Et peut-être t'attends un petit peu, j'vais souffler un peu là ouff [OFFENSIVE/]putain.[/OFFENSIVE][N]
+774.6124174104066	775.4192343225936	O2	Oh [OFFENSIVE/]merde.[/OFFENSIVE]
+776.74877768493	778.4646840756375	O1	Ah, c'est ça craint ça, j'suis tout seul.[N]
+780.828316719791	788.4760319578452	O2	Eh, il m'attendait juste derrière la porte, ça c'était le risque, j'me suis dit, j'vais te rejoindre par cette porte là, bah non.[N]
+790.1805747300712	791.385118289111	O2	C'était pas toi derrière la porte.[N]
+793.5555694190788	793.9987505398576	N	[IVS]
+794.0214777768206	795.578293508787	O1	Ils sont cinglés les mecs [OFFENSIVE/]p'tain[/OFFENSIVE] c'est.[N]
+797.6578356909029	798.6578341172756	O2	Ah, ça c'est un mur.[N]
+802.7828276260625	805.214641981105	O1	Oh [OFFENSIVE/]putain,[/OFFENSIVE] j'ai tellement crevé.
+805.3510054028832	808.1464555493338	N	[OIVS]
+808.1578191678153	809.1578175941879	O2	Mais qu'est-ce qu'il fait?
+814.82826321646	815.8168980243511	O2	C'est quoi ce cowboy? [N]
+822.850977864404	824.2259757006663	O2	Ah, c'est pas celui qui m'a tué.[N]
+825.0782470867794	825.498700970595	O1	Quoi?[N]
+827.4418797309327	828.0100606550081	O2	Pas lui qui m'a t-.[N]
+828.0327878919712	831.4418734364232	O1	Ah, je sais, je sais que c'est pas lui mais bon, attends, là, c'est ça craint, ah.[N]
+832.8055076542039	836.3395930019526	O2	Ah mais y en reste un, voir plus.[N]
+836.8055013596945	839.4645880843672	O1	Oui, ça c'est sûr hein.[N]
+851.5441145302091	855.8963804086262	O1	Bon déjà, des amorces sur la bombe.[N]
+856.8963788349988	862.3281884691593	O1	Ah [OFFENSIVE/]putain,[/OFFENSIVE] moi j'suis dans un état, j'suis blessé à la jambe, j'suis blessé aux bras, au corps, j'ai pris tellement cher ah. [N]
+864.5895485469791	865.7372740136113	O2	Ah y a du sang sur tes mains.[N]
+868.3849971198024	869.6122679158051	O1	On a désamorcé les bombes déjà.[N]
+869.6349951527682	872.5327178655525	N	[OIVS]
+878.6463446086034	879.714524745865	O2	Y en avait pas une troisième?[N]
+879.759979219791	882.7031564065013	N	[OIVS]
+882.7827017358718	885.4417884605444	O1	Bon c'est bon, les bombes sont désamorcées, fin, après euh.
+887.7940574862165	889.8849632868137	O1	J'vais sûrement [OFFENSIVE/]me faire baiser[/OFFENSIVE] parce que j'ai plus de vie, mais.
+894.2940472576385	896.146317070124	O1	Wah chui pas mort.[N]
+900.4985829485413	904.3735768507352	N	[OIVS]
+904.4531221801058	905.1349392889962	O1	[OFFENSIVE/]Connard.[/OFFENSIVE]
+905.1690301444407	906.2144830447393	N	[OIVS]
+907.7372079212613	910.4985672122674	O1	J'ai plus de gilet, là, ils m'ont défoncé le gilet par balles.
+915.6462863843901	919.1576444951758	O2	Ah, [OFFENSIVE/]merde, putain,[/OFFENSIVE] il était combien?[N]
+919.1690081136574	927.1235410507122	O1	Ah, je sais pas, c'était chaud, là ouais ouais, bon euh, on a, on a réussi à désamorcer les bombes, écoute hein c'est déjà ça.[N]
+928.1689939510109	930.3508086994601	O1	Voilà, on finit en rang S euh en rang F.[N]
+932.7939866729841	933.8280759548013	O2	Ah, [OFFENSIVE/]putain,[/OFFENSIVE] j'ai.
+933.8394395732829	934.5780747745807	O1	Ah la la la la.[N]
+934.6235292485068	935.2258010280267	O2	D'habitude, moi.[N]
+935.6008004379164	937.4644338688836	O1	J'ai plus d'habitude, j'pensais qu'on était en haut, [OFFENSIVE/]la merde.[/OFFENSIVE]
+938.3280688734782	938.8735225605905	O2	Ah ouais.[N]
+940.0780661196302	942.6916983703768	O1	Ah, d'accord, c'était quoi ce bruit à la fin, là? [N]
+943.930332784861	944.5553318013439	O2	Quel bruit? [N]
+944.578059038307	948.2598714263153	O1	Ça fait ah j'ai pas compris ouais.[N]
+948.5894163622789	950.18032294969	O2	Bah c'était peut-être ton perso qui.[N]
+950.1916865681715	953.0894092809557	O1	Ouais, ché pas ouais, du coup, allez, j'vais couper la vidéo, là.[N]
+955.7371323871469	956.6348582471859	O1	Allez, hop euh.
+956.6575854841489	959.9416712253043	O2	Ou il est, ouais, j'crois que j'vais m'arrêter.
+960.5439430048243	961.2143964952332	O1	Ça marche.
+961.2257601137147	962.3166674879394	O2	J'vais m'arrêter, là aussi.
+962.4303036727545	966.0780252053182	O1	Bon, les amis, des bisous, ciao, abonnez-vous, pouce bleu, tchuss.
+966.2825703379854	974.2711941304848	N	[OIVS]
+974.3052849859293	982.2370906860211	N	[OIVS]
+982.2825451599472	989.3052613815188	N	[OIVS]
